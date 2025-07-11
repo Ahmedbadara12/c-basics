@@ -1,0 +1,15 @@
+D:\study .net\c-basics\assign 6\assign 6\assign 6\bin\Debug\net8.0\assign 6.exe
+D:\study .net\c-basics\assign 6\assign 6\assign 6\bin\Debug\net8.0\assign 6.deps.json
+D:\study .net\c-basics\assign 6\assign 6\assign 6\bin\Debug\net8.0\assign 6.runtimeconfig.json
+D:\study .net\c-basics\assign 6\assign 6\assign 6\bin\Debug\net8.0\assign 6.dll
+D:\study .net\c-basics\assign 6\assign 6\assign 6\bin\Debug\net8.0\assign 6.pdb
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.AssemblyInfoInputs.cache
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.AssemblyInfo.cs
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.csproj.CoreCompileInputs.cache
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.sourcelink.json
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.dll
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\refint\assign 6.dll
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.pdb
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\assign 6.genruntimeconfig.cache
+D:\study .net\c-basics\assign 6\assign 6\assign 6\obj\Debug\net8.0\ref\assign 6.dll

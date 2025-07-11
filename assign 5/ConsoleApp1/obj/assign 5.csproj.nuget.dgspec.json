@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study .net\\c-basics\\ConsoleApp1\\ConsoleApp1\\assign 5.csproj": {}
+    "D:\\study .net\\c-basics\\assign 5\\ConsoleApp1\\assign 5.csproj": {}
   },
   "projects": {
-    "D:\\study .net\\c-basics\\ConsoleApp1\\ConsoleApp1\\assign 5.csproj": {
+    "D:\\study .net\\c-basics\\assign 5\\ConsoleApp1\\assign 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study .net\\c-basics\\ConsoleApp1\\ConsoleApp1\\assign 5.csproj",
+        "projectUniqueName": "D:\\study .net\\c-basics\\assign 5\\ConsoleApp1\\assign 5.csproj",
         "projectName": "assign 5",
-        "projectPath": "D:\\study .net\\c-basics\\ConsoleApp1\\ConsoleApp1\\assign 5.csproj",
+        "projectPath": "D:\\study .net\\c-basics\\assign 5\\ConsoleApp1\\assign 5.csproj",
         "packagesPath": "C:\\Users\\medob\\.nuget\\packages\\",
-        "outputPath": "D:\\study .net\\c-basics\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\study .net\\c-basics\\assign 5\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
